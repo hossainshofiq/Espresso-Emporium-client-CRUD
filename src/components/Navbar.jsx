@@ -9,6 +9,7 @@ const Navbar = () => {
             <li><NavLink to='/addCoffee'>Add Coffee</NavLink></li>
             {/* <li><NavLink to={`/updateCoffee/${_id}`}>Update Coffee</NavLink></li> */}
             <li><NavLink to='/signIn'>Sign In</NavLink></li>
+            {/* <li><NavLink to='/signUp'>Sign Up</NavLink></li> */}
             <li><NavLink to='/users'>Users</NavLink></li>
         </div>
     </>
